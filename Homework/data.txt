@@ -1,0 +1,9 @@
+Computer log read and clear;10min;0 ft
+Tire change (Winter/Summer);30min;0 ft
+Repair puncture;30min;1000 ft
+Replace oils;20min;15000 ft
+Replace filters;40min;6000 ft
+Repair clutch;180min;20000 ft
+Repair brakes;60min;13000 ft
+Fill anti-ice liquid;15min;7000 ft
+Repair lights;20min;3000 ft

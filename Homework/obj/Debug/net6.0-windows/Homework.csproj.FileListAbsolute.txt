@@ -1,0 +1,102 @@
+C:\Users\Administrator\source\repos\Homework\Homework\bin\Debug\net6.0-windows\Homework.exe
+C:\Users\Administrator\source\repos\Homework\Homework\bin\Debug\net6.0-windows\Homework.deps.json
+C:\Users\Administrator\source\repos\Homework\Homework\bin\Debug\net6.0-windows\Homework.runtimeconfig.json
+C:\Users\Administrator\source\repos\Homework\Homework\bin\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\source\repos\Homework\Homework\bin\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\refint\Homework.dll
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\ref\Homework.dll
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.Home.resources
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.Payment.resources
+C:\Users\Administrator\source\repos\Homework\Homework\obj\Debug\net6.0-windows\Homework.Worksheet.resources
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\bin\Debug\net6.0-windows\Homework.exe
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\bin\Debug\net6.0-windows\Homework.deps.json
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\bin\Debug\net6.0-windows\Homework.runtimeconfig.json
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\bin\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\bin\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.Home.resources
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.Payment.resources
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.Worksheet.resources
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\refint\Homework.dll
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\Homework.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Homework - Copy\Homework\obj\Debug\net6.0-windows\ref\Homework.dll
+C:\Users\Administrator\Desktop\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.exe
+C:\Users\Administrator\Desktop\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.deps.json
+C:\Users\Administrator\Desktop\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.runtimeconfig.json
+C:\Users\Administrator\Desktop\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\Desktop\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.Home.resources
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.Payment.resources
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.Worksheet.resources
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\refint\Homework.dll
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\AXBY9\Homework\obj\Debug\net6.0-windows\ref\Homework.dll
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\bin\Debug\net6.0-windows\Homework.exe
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\bin\Debug\net6.0-windows\Homework.deps.json
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\bin\Debug\net6.0-windows\Homework.runtimeconfig.json
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\bin\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\bin\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.CustomControl1.resources
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.Home.resources
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.Payment.resources
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.Worksheet.resources
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\refint\Homework.dll
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\Homework.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\AXBY9 - Copy\Homework\obj\Debug\net6.0-windows\ref\Homework.dll
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.exe
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.deps.json
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.runtimeconfig.json
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\bin\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.CustomControl1.resources
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.Home.resources
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.Payment.resources
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.Worksheet.resources
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.dll
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\refint\Homework.dll
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.pdb
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\Homework.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Projects\AXBY9\Homework\obj\Debug\net6.0-windows\ref\Homework.dll
